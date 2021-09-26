@@ -1,0 +1,12 @@
+{
+  "magisk": {
+    "version": "cb4361b7-ip",
+    "versionCode": "23001",
+    "link": "https://cdn.jsdelivr.net/gh/ipdev99/magisk-files@snapshot/app-debug.apk",
+    "note": "https://cdn.jsdelivr.net/gh/ipdev99/magisk-files@snapshot/notes.md"
+  },
+  "stub": {
+    "versionCode": "21",
+    "link": "https://cdn.jsdelivr.net/gh/ipdev99/magisk-files@snapshot/stub-release.apk"
+  }
+}
