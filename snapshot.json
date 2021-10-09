@@ -1,6 +1,6 @@
 {
   "magisk": {
-    "version": "410bbb82-ip",
+    "version": "27814e30-ip",
     "versionCode": "23001",
     "link": "https://cdn.jsdelivr.net/gh/ipdev99/magisk-files@snapshot/app-debug.apk",
     "note": "https://cdn.jsdelivr.net/gh/ipdev99/magisk-files@snapshot/notes.md"
