@@ -10,9 +10,9 @@ Sanpshot builds are from the official Magisk master branch.
 
 ## Note.
 
-Built straight from the official Magisk repo, no modifications on my part.
-- Save for creating a signing key.​
+Built straight from the official Magisk repo, no modifications on my part.<br>
+_Save for creating a signing key._
 
 ### Use Custom update channel.
 
-`https://cdn.jsdelivr.net/gh/ipdev99/magisk-files@master/snapshot.json`
+`https://raw.githubusercontent.com/ipdev99/magisk-files/master/snapshot.json`
