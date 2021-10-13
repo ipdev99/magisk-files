@@ -1,6 +1,6 @@
 ## Snapshot Builds.
 
-Sanpshot builds are from the official Magisk master branch.
+Snapshot builds are from the official Magisk master branch.
 
 - [Magisk](https://github.com/topjohnwu/Magisk)
 
