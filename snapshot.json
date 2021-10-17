@@ -2,11 +2,11 @@
   "magisk": {
     "version": "8276a077-ip",
     "versionCode": "23001",
-    "link": "https://cdn.jsdelivr.net/gh/ipdev99/magisk-files@snapshot/app-debug.apk",
-    "note": "https://cdn.jsdelivr.net/gh/ipdev99/magisk-files@snapshot/notes.md"
+    "link": "https://cdn.jsdelivr.net/gh/ipdev99/magisk-files@f900438494c0d84547284b6a5655f5f0d1e112e1/app-debug.apk",
+    "note": "https://cdn.jsdelivr.net/gh/ipdev99/magisk-files@f900438494c0d84547284b6a5655f5f0d1e112e1/notes.md"
   },
   "stub": {
     "versionCode": "21",
-    "link": "https://cdn.jsdelivr.net/gh/ipdev99/magisk-files@snapshot/stub-release.apk"
+    "link": "https://cdn.jsdelivr.net/gh/ipdev99/magisk-files@f900438494c0d84547284b6a5655f5f0d1e112e1/stub-release.apk"
   }
 }
