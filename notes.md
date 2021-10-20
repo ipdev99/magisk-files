@@ -1,3 +1,3 @@
-## Magisk (8276a077-ip) (23001)
+## Magisk (770b28ca-ip) (23001)
 
-- Snapshot of Magisk _8276a077_
+- Snapshot of Magisk _770b28ca_
