@@ -1,3 +1,3 @@
-## Magisk (28b5faab-ip) (23014)
+## Magisk (e1b63d7d-ip) (23014)
 
-- Snapshot of Magisk _28b5faab_
+- Snapshot of Magisk _e1b63d7d_
