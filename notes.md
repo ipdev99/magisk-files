@@ -1,3 +1,3 @@
-## Magisk (571b8986-ip) (23016)
+## Magisk (f443cbaa-ip) (23016)
 
-- Snapshot of Magisk _571b8986_
+- Snapshot of Magisk _f443cbaa_
