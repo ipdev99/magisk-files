@@ -7,6 +7,6 @@
   },
   "stub": {
     "versionCode": "29",
-    "link": "https://cdn.jsdelivr.net/gh/ipdev99/magisk-files@9b2c507216fbde6d019eef3e3ce07b5f4e684e43/stub-release.apk"
+    "link": "https://cdn.jsdelivr.net/gh/ipdev99/magisk-files@9b2c507216fbde6d019eef3e3ce07b5f4e684e43/stub-debug.apk"
   }
 }
