@@ -1,3 +1,3 @@
-## Magisk (9469e79e3-ip) (25001)
+## Magisk (6e5df1f06-ip) (25001)
 
-- Snapshot of Magisk _9469e79e3_
+- Snapshot of Magisk _6e5df1f06_
