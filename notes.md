@@ -1,3 +1,3 @@
-## Magisk (c97d1044f-ip) (25102)
+## Magisk (8423dc8d6-ip) (25102)
 
-- Snapshot of Magisk _c97d1044f_
+- Snapshot of Magisk _8423dc8d6_
