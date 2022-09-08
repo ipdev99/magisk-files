@@ -1,3 +1,3 @@
-## Magisk (6e299018a-ip) (25203)
+## Magisk (ccf21b099-ip) (25203)
 
-- Snapshot of Magisk _6e299018a_
+- Snapshot of Magisk _ccf21b099_
