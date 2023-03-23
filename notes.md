@@ -1,3 +1,3 @@
-## Magisk (87e036a19-ip) (25210)
+## Magisk (dba5020e4-ip) (25210)
 
-- Snapshot of Magisk _87e036a19_
+- Snapshot of Magisk _dba5020e4_
