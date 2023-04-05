@@ -1,3 +1,3 @@
-## Magisk (b505819ca-ip) (25211)
+## Magisk (daf8653c3-ip) (26001)
 
-- Snapshot of Magisk _b505819ca_
+- Snapshot of Magisk _daf8653c3_
