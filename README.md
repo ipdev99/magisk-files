@@ -3,7 +3,7 @@
 Snapshot builds are from the official Magisk master branch.
 
 - [Magisk](https://github.com/topjohnwu/Magisk)
-- [Building and Development](https://github.com/topjohnwu/Magisk#building-and-development)
+- [Building and Development](https://topjohnwu.github.io/Magisk/build.html)
 - [Change log](https://github.com/topjohnwu/Magisk/commits/master)
 
 ### Notes.
