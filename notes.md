@@ -1,3 +1,3 @@
-## Magisk (7087badf8-ip) (26102)
+## Magisk (dd93556ad-ip) (26102)
 
-- Snapshot of Magisk _7087badf8_
+- Snapshot of Magisk _dd93556ad_
