@@ -1,12 +1,12 @@
 {
   "magisk": {
-    "version": "4856da158-ip",
+    "version": "4caed73fe-ip",
     "versionCode": "26103",
-    "link": "https://cdn.jsdelivr.net/gh/ipdev99/magisk-files@ca0e66f9388ffc7525a0ab8b53be1854e2e439ad/app-release.apk",
-    "note": "https://cdn.jsdelivr.net/gh/ipdev99/magisk-files@ca0e66f9388ffc7525a0ab8b53be1854e2e439ad/notes.md"
+    "link": "https://cdn.jsdelivr.net/gh/ipdev99/magisk-files@8e41c90c6fc4d38712af403809c0c0e7d0ee654b/app-release.apk",
+    "note": "https://cdn.jsdelivr.net/gh/ipdev99/magisk-files@8e41c90c6fc4d38712af403809c0c0e7d0ee654b/notes.md"
   },
   "stub": {
     "versionCode": "36",
-    "link": "https://cdn.jsdelivr.net/gh/ipdev99/magisk-files@ca0e66f9388ffc7525a0ab8b53be1854e2e439ad/stub-release.apk"
+    "link": "https://cdn.jsdelivr.net/gh/ipdev99/magisk-files@8e41c90c6fc4d38712af403809c0c0e7d0ee654b/stub-release.apk"
   }
 }
