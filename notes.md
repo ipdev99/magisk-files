@@ -1,3 +1,3 @@
-## Magisk (0f5963f23-ip) (26105)
+## Magisk (f86c66c99-ip) (26105)
 
-- Snapshot of Magisk _0f5963f23_
+- Snapshot of Magisk _f86c66c99_
