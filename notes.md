@@ -1,3 +1,3 @@
-## Magisk (41226c12b-ip) (26105)
+## Magisk (0ba573b78-ip) (26105)
 
-- Snapshot of Magisk _41226c12b_
+- Snapshot of Magisk _0ba573b78_
